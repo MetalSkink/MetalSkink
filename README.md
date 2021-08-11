@@ -5,6 +5,7 @@
 -->
 Hello, I am a software engineer passionate about web development with frameworks especially ReactJS and Angular, I am self-taught and I seek to work on real projects that use these technologies
 
+You can see my personal website here: https://metalskink.github.io/Portafolio/
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
